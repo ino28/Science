@@ -140,10 +140,190 @@ list, slicing
 	* note that nouns belongs to **open class** and prepositions **closed class** (a limited category and relatively fixed components)
 
 ### 6 Classifying
+#### 6.1 supervised classification
+* simple classification
+* sequence/joint classification
+	* consecutive classification (i.e. greedy sequence classification)
+* advanced classification
+	* transformational joint classification: initial assignment -> iteratively refining to repair inconsistencies between related inputs
+	* scores based on probability
+		* Hidden Markov Models
+		* Maximum Entropy Markov Models
+		* Linear-Chain Conditional Random Field Model
+		
+		*note that to find scores for tag sequences, algorithms can be different
+	
+#### 6.2 further examples
+tasks include recognizing:
 
+* sentence boundary
+* dialogue act types
+* textual entailment (RTE)
+
+#### 6.3 evaluation
+
+* accuracy: percentage(correctly labeled)
+* precision: TP/(labeled P)
+* recall: TP/(actual P)
+	* type I error: N(irrelevant) labeled as P(relevant)
+	* type II error: P(relevant) labeled as N(irrelevant)
+* F1 score: 2/ (1/recall + 1/precision)
+* confusion matrix: row = reference; col = test
+* cross-validation: current fold to test, all other sets for training
+
+#### 6.4 decision trees
+
+decision stump, entropy and information gain
+
+	def entropy(labels):
+		fd = nltk.FreqDist(labels)
+		probs = [fd.freq(l) for l in fd]
+		return -sum(p * math.log(p,2) for p in probs)
+	
+	def information_gain(original_entropy, new_entropy):
+		retrun original_entropy - new_entropy
+
+pruning
+
+#### 6.5 naive bayes classifier
+
+![naive bayes classifier to choose the topic for a document](http://www.nltk.org/images/naive-bayes-triangle.png)
+
+> prior probability × ∏(feature contributions) = label likelihood
+
+##### naive bayes assumption (i.e. independence assumption)
+> Feature contributions are independent.
+
+##### smoothing
+* expected likelihood estimation: add 0.5 to each *count(f,label)*
+* heldout estimation
+
+##### problem of double-counting
+solution: add to label likelihood:
+
+> *w[label]* × ∏*(w[f, label])*
+
+, where in naive bayes we set these parameters independently:
+
+> *w[label] = P(label)*
+
+> *w[f, label] = P(f* |*label)*
+
+#### 6.6 maximum entropy classifier
+
+uses iterative optimization, maximising **total likelihood** summing up *P(label* |*features)*, which is the probability that an input with certain *features* will have a label of *label*
+
+* joint-feature: properties of *labeled* values
+* context (i.e. simple feature): properties of *unlabeled* values
+
+##### maximum entropy principle
+> Among consistent distributions, we should choose the one whose entropy is **highest**, i.e. the labels are more evenly distributed, than a single label dominating.
+
+Whether predicts P(label) before giving/given an *input*, classifiers can be:
+
+* generative: naive bayes classifier
+* conditional: maximum entropy classifier
 
 ### 7 Information extraciton
+#### 7.2 chunking
+
+NP(noun phrase) chunking, chunking grammar, tag patterns,
+Chinking(sth like unchunking), I(nside-)O(utside-)B(egin) tags
+
+#### 7.3 chunkers
+* regex-based chunker
+* n-gram chunker
+* classifier-based chunker
+
+#### 7.4 recursion (nested)
+
+chunking with depth (e.g. nested NP), tree traversal
+
+#### 7.5 NER (named entity recogition)
+#### 7.6 relation extration
+
 ### 8 Grammar analysis
+
+#### 8.2 syntax
+coordinate structure (e.g. "NP and NP" equivalent to "NP"), constituent structure (e.g. S - NP relationship in "S (NP VP)", where NP is a (**immediate**) **constituent** of S)
+
+#### 8.3 context-free grammar (CFG)
+
+* structurally ambiguity
+	* prepositional phrase attachment ambiguity
+
+recursion
+
+#### 8.4 parsing
+
+* recursive descent parsing: top-down
+* shift-reduce parsing: bottom-up
+* left-corner parsing: top-down with bottom-up filtering (preprocess to build a possible table)
+* chart parsing: with **well-formed substring table**
+
+#### 8.5 dependency
+
+##### dependency grammar
+head (usually starting with the main verb in a sentence) - dependent
+
+A dependency graph is **projective** (no crossing when edges expanded)
+
+valency for verbs, complement (must-have) v.s. modifiers (i.e. adjunct, optional)
+#### 8.6 treebank, ambiguity challenges, weighted grammar
+
+probabilistic context-free grammar (PCFG)
+
 ### 9 Feature-based Grammar
+
+##### 9.1 grammatical features
+
+	NP[NUM=pl]
+	|          \
+	Det[NUM=pl]  N[NUM=pl]
+	|               |
+	these           dogs
+	
+	
+	*Det for demonstrative
+	
+##### 9.2 feature structure
+
+![Rendering a Feature Structure as an Attribute Value Matrix](http://www.nltk.org/images/avm1.png)
+
+	pos tag = N
+	agreement features (person = 3, number = pl, gender = female)
+
+directed acyclic graph (DAG), feature path, structure sharing (i.e. reentrancy), subsumption (complete v.s. partial information), unification (merging)
+
+![DAG example](http://www.nltk.org/images/dag03.png)
+
+##### 9.3 extending feature-based grammar
+
+subcategorization (e.g. [SUBCAT=clause]), phrasal level, (phrasal) projection (e.g. N' and N''' are projections of N), maximal projection (e.g. N'''), zero projection (N), auxiliary (for inverted clauses)
+
+![auxiliary verb for inversion case](http://www.nltk.org/book/tree_images/ch09-tree-15.png)
+
+unbounded dependency construction, filler-gap, slash categories
+
+![slash category](http://www.nltk.org/book/tree_images/ch09-tree-16.png)
+	
 ### 10 Meaning analysis
+
+##### 10.2 propositional logic
+![propositional logic](https://i.imgur.com/PKQsoqb.png)
+
+##### 10.3 first-order logic
+
+predicate, unary predicate, binary predicate, non-logical v.s. logical constants
+
+type:
+
+* basic types
+	* *e*: type of entities
+	* *t*: type of formulas, i.e. expressions with truth values
+* complex types
+	* e.g. *\<e,t>*: from entities to truth values, namely unary predicates
+
+conreferential, open formula, existential quantifier ∃, universal quantifier ∀, bound v.s. unbound, closed (all bounded)
+
 ### 11 Linguistic data management
