@@ -1,0 +1,597 @@
+CC Sociology
+2
+structural functionalism
+Émile Durkheim: French sociologist
+Society as organism: structure-function(malfunction/dysfunction)
+function: manifest/latent
+con: cannot explain changes
+
+conflict theory
+Karl Marx: class conflict
+W.E.B. DuBois: race conflict
+gender conflict
+
+symbolic interactionism
+for micro questions
+Max Weber: German sociologist
+social interaction and “understanding”
+
+3
+Comte: Positivist sociology
+- believe in direct observation
+- objective
+- fact(research)-based
+doubt:
+- observability, measurability, validity and reliability
+i.e. Hawthorne Effect
+- value of subjectivity
+
+Interpretative sociology
+Critical sociology:
+- room for subjectivity, especially values
+- value-driven rather than value-free
+
+4 Research methods
+
+5
+Emile Durkheim
+social solidarity
+Suicide
+
+6
+Marx: conflict, freedom
+
+Production
+- Forces of production: labor
+- Means of production: materials
+- Relations of production
+
+with Friedrich Engels: Historical matieralism
+resources, material reality: fundamental
+modes of production
+- Primitive Cummunism
+- Feudalism
+- Capitalism
+class: proletariat vs. bourgeoisie
+surplus -> social inequality, exploitation
+        -> crises of overproduction
+        -> revolution
+
+Antonio Gramsci
+- bourgeisie manages to stay in power effectives because of *hegemony*
+
+7
+E.B. Dubois
+Race
+
+8
+Harriet Martineau
+Gender Inequality & Feminism
+Wave 1(19c-early 20c): Basic rights
+<The Yellow Wallpaper>”Mind is not an organ of sex”(?)
+Wave 2: Further equality
+Wave 3: Intersectionality
+
+9
+Max Weber
+Modernity
+Traditionalism: Basic foreordained order
+Rationality
+1. Calculability 2. Methodical thinking 3. Reflectivity
+Lutherism(?) Personal responsibility
+Calvinism(?) Proof of election
+
+Bureaucracy
+Legitimation
+Traditional; legal rational, charismatic
+
+Class(Economical), (Political Party) Power, Status(/Prestige)
+
+Iron cage: no meaning behind ration mechanism
+
+10
+Symbol, Value, Belief, Norms
+Quinceañeras, Bar Mitzvahs, or Sweet Sixteen parties
+Sapir-Whorf hypothesis
+3 kinds of norms: folkway, mores, taboo
+
+11 Culture
+
+12
+Gerhard Lenski: Sociocultural Evolution
+Hunting and gathering
+Horticultural and Pastoral
+Agrarian: Feudalism
+Industrial: based on raw materials and manufacturing
+Postindustrial: based on information, services and technology
+
+Hurkheim: Mechanical to Organic Solidarity
+
+13
+Social development
+Freud: id, ego, super-ego
+Piaget: sensorimotor(sense), pre-operational(cognition), concrete operational(others, causality), formal operational(abstract, logic and critical thinking)
+Kohlberg: pre-conventional(self-interest), conventional(societal ethics), post-conventional(judgement)
+Gilligan: boys - right and wrong - justice perspective vs. girls - interpersonal reasoning in moral decisions - care and responsibility perspective
+Mead: “self” established on “others”, imitation - play - game(multi-role) - against “generalised others”(multi-role, multi-situation)
+Erikson: toddler - autonomy, young - intimidate relationships, adulthood (details?)
+
+14 socialisation:
+anticipatory
+secondary: “hidden curriculum”
+Coleman: peer groups(nerds, jocks, leading crowd, and burnouts)
+social prescription
+Erving Goffman: total institution, e.g. military, prisons, boarding schools, or psychiatric institutions, using rules, rewards and punishment to re-socialise
+
+family, school, peers, media, total institution
+
+15
+hold a status(ascribed vs. achieved)
+perform a role
+role strain
+role exit
+
+Thomas Theorem by William Thomas and Dorothy Thomas: "If people define situations as real, they are real in their consequences." Social reality created
+
+Erving Goffman: dramaturgical analysis of social interaction
+performance
+impression management: words, props and nonverbal communication
+front vs. backstage
+
+16
+Social group
+vs. aggregates, categories
+primary(essential, close, supportive, end-in-itself, e.g. family and friends) vs. secondary group
+
+individual affecting group - e.g. leader
+instrumental vs. expressive leader
+authoritarian vs. democratic vs. laissez-faire: difference in group solidarity, affection/respect to leader, decision creativity, response and efficiency in crisis
+
+group affecting individuals - conformity
+authority, autonomy
+group norms, values, “groupthink” mentality
+reference group: in-group vs. out-group comparison
+size <-> impacts and dynamics
+size <-> social diversity: homo(inward, concentrating relationship) vs. hetero(intergroup interaction)
+
+groups as networks: people are interconnected
+
+
+17
+formal organisation
+utilitarian, normative(voluntary), coercive
+
+rationalization in formal organisation: bureaucracy
+bureaucratic ritualism: end in itself, self-perpetuating; oligarchy
+Robert Michelle: iron law of oligarchy
+Max Weber: bureaucratic alienation(the worst danger) - dehumanizing
+
+Frederik Taylor: scientific management
+Organizational environment: e.g. technology, policy and economic trends, population patterns
+Changes: creative freedom, flexibility, flattening hierarchies, independent thinking
+George Ritzer: McDonaldization of society - hyper-rational fast-food industry principles(efficiency, predictability, uniformity, control)
+Irrationality of rationality
+
+18
+deviation
+biological/psychological perspective: individual factor v.s. sociology
+social control, positive/negative sanction
+Walter Reckless: containment theory
+
+1. What is "deviated" varies over time/across cultures
+2. Deviation is defined/considered/labeled, not innate
+3. Social definition involves social power
+
+19
+Emile Durkheim's structural functionalism
+1. helps define cultural values and norms
+2. clarifies moral boundary
+3. brings society together
+4. encourages social change
+
+Robert Merton
+Strain theory: the amount of deviance depends on whether the society has provided sufficient means to achieve cultural defined goals
+e.g. the American Dream: financial success
+1) accept goal but use unacceptable means ("innovation")=deviant
+2) give up on the goal, follow the rules=ritualism
+3) reject goals and means=retreatism, "drops out"; in particular:
+3a) rebellion=rejection in the context of a counterculture - new goal new means
+
+Symbolic Interaction
+Labeling theory: deviance or conformity is about how people label it
+
+e.g. Erving Goffman: stigma=a powerfully negative master status that affects a person's self-concept, social identity, and interactions
+- retrospective labeling
+- prospective labeling
+
+Differential association: learning what is deviant through interaction with others
+Control theory: deviance in terms of self-control, ability to predict/manage consequences
+
+Conflict theory
+Defining deviation involves power
+Norms have an inherently political nature, i.e. morals(right/good/normative) defined with underlying political belief
+"while we may take issue with how a law is applied, we much more rarely ask whether the laws themselves are just or not"
+
+20 Crime
+Crimes against the person, against property, and victimless crimes
+over-criminalisation
+The criminal justice system: the police, the courts and the system of punishment and corrections
+Mass incarceration
+Punishment, i.e. crime control: retribution (as moral vengeance), deterrence (to reduce crime by making the prospect of getting caught sufficiently awful), societal protection (long prison sentences or capital punishment), rehabilitation
+
+21
+Social stratification
+- a characteristic of society and not a matter of individual differences
+- persists across generations
+- hierarchy vs. mobility: horizontal vs. vertical, structural vs. frictional(?)
+- stratification as a belief
+Open vs. closed society, achieved vs. ascribed position
+e.g. India’s Caste system, feudal Europe, South Africa’s apartheid
+
+socioeconomic status: income, education, occupational prestige
+status inconsistency (if consider position->status), e.g. poor professors
+
+22
+Structural functionalism
+Davis-Moore thesis: society assigns greater economic and social rewards to jobs more important to the society.
+
+Conflict theory
+Karl Marx:  stratification is based on different relations to the means of production; proletariat would overthrow the bourgeoisie once the exploitation grew worse
+Criticism by Ralf Dahrendorf:
+1. Capitalist class in Europe has been too fragmented to serve as a single target. People invest in capitalism in a variety of ways
+2. Greater legal protections have lessened the tension
+3. People ideologically invest in - this determines HOW people seek changes
+
+Symbolic interaction (micro level)
+Max Weber: “conspicuous consumption”, as a sign of class
+“fit the culture”
+
+23
+social stratification plays out in the US: income inequality, wealth inequality, political power, occupational prestige, and education attainment
+meritocracy: social stratification based on personal merit
+
+26
+mobility
+intra-generaltional vs. intergeneraltional
+absolute vs. relative
+quantitative vs. qualitative
+horizontal vs. vertical
+social mobility varies among different groups
+401k plan: retirement savings plan by an employer in the form of tax-deferred investment options
+
+27
+#FirstWorldProblems
+global stratification
+GDP=Gross Domestic Product
+GNI=Gross National Income
+Explanations for global poverty
+- technology
+- population growth
+- gender inequalities
+- social stratification
+- global power relationships e.g. colonialism and neo
+- ialism (economic exploitation by corporations)
+
+28
+Modernisation theory
+from structural functionalism: frames global stratification as a function of technological and cultural differences between nations
+- Columbian exchange
+- Industrial revolution
+Poverty: societal inadaptability, tradition vs. technological change
+Walt Rostow: European modernisation in 4 stages
+- the Traditional Stage
+- the Take-off Stage
+- the Drive to Technological Maturity
+- High Mass Consumption
+criticisms: there are countries left behind; Eurocentric, economic progress emphasising
+
+Dependency theory
+from conflict theory: the rich comes at the expense of the poor
+- colonism
+Immanuel Wallerstein: the Capitalist World Economy
+- economic dependency: high-income countries as “core” and low/middle-income “periphery/semi-periphery”
+Poverty: bad distribution
+criticisms: world economy is not a zero-sum game; colonisation effect varies
+
+{comparison}
+Structural Functionalism view: inteprets as funtional constructs, always based on a questionable standard/assumption
+Conlict Theory view: emphasises interaction/relationship and conflict, overlooks individual factors and symbiosis
+
+29
+Economics: 3 sectors, raw materials -> manufactured goods -> service
+Major revolutions: Agrarian, Industrial (1800s), Information
+industrialists as “robber baron”
+Labor market: Primary vs. secondary
+
+30 Politics
+Politics=
+1. society organizes decision-making
+2. distributes power and resources
+Max Weber:
+- government having coercive power that is "the ability to achieve desired ends over the objections of others"
+- state as "the organization that has a monopoly on the legitimate use of violence"
+
+Types of authority:
+- traditional
+- rational-legal
+- charismatic
+	- routinization of charisma: transformation into traditional/rational-legal authority, e.g. the church after Jesus
+
+Political systems:
+- democracy
+- authoritarianism: system that denies people participation in their own governance and leaves ruling to the elites
+	- monarchy
+	- totalitarianism
+Political Spectrum: left-leaning/liberal vs. right-leaning/conservative (laissez-faire)
+
+Political organizations: 
+- formal institution politics
+- special interest groups
+
+Theories of power:
+- Pluralist model: negotiation, structural-functionalist
+- Power-Elite model: power concentrated in the hands of elites; protest is justifiable
+- Marxist Political Economy model: cause of power imbalance is SYSTEMIC, change to be made by changing underlying economic system
+
+
+31 Sex and Sexuality
+primary vs. secondary sex characteristics: whether directly related to reproduction
+intersex: 1) special combination of sex hormones, 2) different responses to hormones, or 3) atypical genitals
+
+gender: social and psychological
+self-presentation, as “a performance that must be worked constantly”: gender expression
+as an identity
+- transgender
+- cisgender
+
+sexuality: sexual behaviours
+sexual orientation
+- bi/pansexual
+- asexual
+
+Symbolic-interactionism :
+- sexual scripts
+Social functionalism:
+- sexuality is organised for society to function, e.g. universal incest taboo
+Social conflict theory:
+- sexuality regulation created and reinforces inequalities, e.g. heteronormativity
+- queer theory
+
+
+32 Sex Stratification
+Patriarchy vs. matriarchal: single sex domination
+Sexism: one gender is *innately* better
+Raewyn Connel: hegemonic masculinities, emphasized femininities^
+- anticipatory socialisation
+- Arlie Hochschild: the Second Shift
+- ^ women to be desirable to men
+
+33 Gender
+Social functionalism:
+- natural division of labour -> institutionalised
+- Talcott Parsons: complimentary to be stable and productive, instrumental vs. expressive qualities
+	- criticism: heteronormative, Western perspective on family, binary, maintaining rigid gender role also has costs
+
+Symbolic-interactionism:
+- gender is an action
+- masculinity/femininity reflects and reinforces gender stratification
+- criticism: micro
+
+Social conflict theory:
+- Harriet Martineau
+Gender as a structural system that distribute power and privilege to some and disadvantage to others: specifically, the patriarchy
+- rationality/emotionality stereotype
+- intersectionality: multiple dimensions of disadvantage
+- Feminism: three major schools of thought:
+	- liberal feminism: cultural and political rights and opportunities
+	- socialist feminism: capitalism is the foundation of the patriarchy, advocates for full economic equality in the socialist tradition
+	- radical feminism: elimination of gender; *clashed heavily with other feminisms, accused transgender movement of perpetuating patriarchal gender norms, refuse to acknowledge transgender people
+  
+  34 Race & Ethnicity
+“One-drop”: having one small black ancestry = not considered white
+
+ethnicity族: culture-based (including language) e.g. Vietnamese vs. Japanese
+race种: biology-based, e.g. Johann Friedrich Blumenbach:
+- Caucasian/white
+- Mongoloid/yellow
+- Malayan/brown
+- Ethiopian/black
+- American/red
+e.g. Hispanic (originally racial term, now by country heritage: Spanish speaking), Latino, Latin American (by country heritage)
+
+35
+Prejudice: a rigid and unfair generalization about and entire category of people, stereotype, bias
+Discrimination: behaviourial, any unequal treatment of different groups of people
+individual vs. institutional racism
+
+Scapegoat Theory
+- a.k.a. frustration-agression
+- prejudice as a defense mechanism on the part of frustrated people who blame another, more disadvantaged group for the troubles that they face (even structural-change-caused ones), out of triggers like economic anxiety
+
+Authoritarian Personality Theory
+- proposed by Theodor Adorno during WWII
+- prejudice as the outgrowth of a certain personality profile: authoritarianism or conservativeness
+
+Culture Theory
+- cultural osmosis (natural tendency?)
+- they just like quoting Avenue-Q???
+- Emory Bogardus’ social distance scale: psychological distance with another race/ethnicity increases prejudice likelihood
+
+Conflict Theory
+- prejudice results from power conflicts among groups
+- Four ways of interaction: pluralism, assimilation (minority adopting majority culture), segregation (de jure vs. de facto segregation), and genocide
+
+36 Aging
+Biologically:
+- James Fries: compression of morbidity
+- error (a.k.a. wear and tear, accumulated cell damage) vs. programming (a.k.a. aging clock, declining organisms)
+
+Culturally: age stratification
+- gerontocracy
+- factors related to power/status of the old: physical strength, accumulated property, job/income
+
+Elizabeth Kubler Ross: five stages of grief
+- denial
+- anger
+- negotiation
+- resignation
+- acceptance
+
+37 Family
+Formation: Kinship, marriage, adoption, family friends: fictive kin
+Family of orientation vs. procreation
+Immediate family (nuclear, single-parent)vs. extended family
+
+endogamy vs. exogamy (e.g. marrying up)
+monogamy vs. polygamy (e.g. polygyny vs. polyandry)
+residential choice: patrilocality (societies with frequent warfare) vs. matrilocality, vs. neolocality (after industrialisation)
+To trace descent through whose family tree: patrilineal vs. matrilineal
+name, inheritance pattern, firstborn
+
+Family as a social institution:
+
+Structural functionalism
+- supporting children
+- regulation of sexual activity (defining improper ones as taboo)
+
+Social conflict
+- perpetuates social inequality
+- married women been seen as sexual/economical property of husbands (原文说sexual regulation是原因，但regulation是双方的、反而是natural role of woman in child-bearing decides inequality/dependency, institutionalisation of this bond/relationship enhances the impression, making it look more like property ownership.)
+- entrenches social advantages/disadvantages: like marries like
+Endogamy and Anti-miscegenation laws (outlawing interracial marriage)
+
+Symbolic interactionism
+- family status/role, stereotype
+- social exchange theory: cost-benefit calculation
+
+
+38 Family
+Family lifecycle: staged
+- courtship
+	- romantic love
+	- arranged marriage
+- marriage
+	- transition to marriage is an important predictor of family stability
+	- divorce, infidelity
+	- cohabiting couples, remarriage, blended family, adoption
+- child rearing
+	- parenting: highly valued in American society
+- launch
+	- empty next syndrome
+	- extended involvement, e.g. grandchildren childcare
+- post-children
+	- sandwich generation
+
+Factors as foundations of a relationship
+- affection
+- attraction
+- passion
+- propinquity, i.e. physical proximity
+- cultural compatibility, e.g. education
+- social compatibility, e.g. (family) class standing, economically
+
+39 Religion
+Emile Durkheim: dichotomy of the sacred and the profane/mundane, i.e. daily life
+
+Symbolic interactionism
+- ritual, i.e. ablution
+- object, i.e. logos, dress/grooming practices
+
+Structural functionalism
+- social cohesion, i.e. church and membership therein
+- social control, i.e. the Ten Commandments
+- a sense of purpose
+
+Social conflict theory
+- as an agent of social stratification
+- divine with politic authority
+- Karl Marx: "the opiate of the masses", a barrier to revolutionary change
+
+Social inequality in religion
+- gender, racial
+- Exception:
+	- Quakers: leader in the Abolition movement and the Women's Suffrage
+	- Martin Luther King: Baptist minister
+
+Religions and denominations, Secularization
+
+40
+"school" word origin: Scole, "leisure" in Greek - a privilege of the wealthy
+
+US schooling system
+- religious institutions
+- need of literacy for a democracy
+	- Thomas Jefferson: early proponent of separating (secular) schools
+	- mid-19 century, Horace Mann: a formalized state funded system of primary schools, in Massachusetts
+	- 1918, all states passed until-16 mandatory education law
+- Votech schools: technical skills
+- Private schooling, homeschooling
+- Two-year colleges, a.k.a. Junior/Community colleges: associate degrees, technical certifications and sometimes high school equivalency degrees or GEDs(=general equivalent diploma)
+
+Structural functionalism
+- manifest functions: passing on and creation of knowledge/skills, socialisation and social integration (“to promote a shared understanding of the social world”)
+- latent functions:
+	- Horace Mann's original vision of public schools based on Prussian "factory school model"
+	- K-12: childcare
+	- Putting together potential relationships: friends, romantic partners
+
+Symbolic interactionism
+- social comments, self-fulfilling prophecies: reinforcing inequality
+
+41
+Conflict theory: structural features reinforce inequality
+- funding: local funding, federal funding (e.g. No Child Left Behind, 2001)
+- French sociologist Pierre Bourdieu: cultural capitals
+- standardised testing
+- tracking: stratified programmes
+- racial/gender bias, e.g. disciplinary
+∴ not truly meritocracy
+
+42 Health & Medicine
+- Hippocrates (Hippocratic oath): humoral medicine, balance of black bile/yellow bile/phlegm/blood
+- Rene Descartes: mind-body dualism: no longer "tampering with God's will"
+- American Medical Association (AMA): systematic medical practice, Federal and state regulations/standards
+
+Talcott Parsons (structural functionalist): the Sick Role
+Medicalisation (symbolic interactionism): 'legitimate' medical condition e.g. ADHD
+the International Classification of Diseases (ICD)
+Illness response, illness belief, illness behaviours
+
+43 Population Health
+life expectancy
+birth rate
+- straight birth rate
+- total fertility rate: number of live births for every 1000 women between 15 and 44
+mortality rate
+- infant mortality rate
+diseases
+- co-morbid diseases
+- incidence vs. prevalence
+- factors
+	- individual: genetics
+	- physical: pollution
+	- social: stress
+
+44 US Health Care
+sectors
+- private
+	- employer
+- public
+	- government healthcare
+- voluntary
+
+Roy Penchansky & Williman Thomas: Five A's of health care access
+- availability
+- accessibility
+- accommodation
+- acceptability: meeting preference
+- affordability
+problems
+	- transportation
+	- time
+	- language barrier
+	- relationship: decision
+fee-for-service
+insurance: third-party payer system
+- health uncertainty
+- cost-sharing
