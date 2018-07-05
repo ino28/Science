@@ -1,0 +1,42 @@
+Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017)
+Last updated on Apr 3, 2017
+
+Stanford University School of Engineering
+
+Lecture 1: NLP with DL
+
+Lecture 2: Word2vec
+
+Lecture 3: GloVe
+
+Lecture 4: Word Window Classification and NN
+
+Lecture 5: Backpro, Project Advice
+
+Lecture 6: Dependency Parsing
+
+Lecture 7: Intro to TF
+
+Lecture 8: RNN and Language Models
+
+Lecture 9: MT and Advanced Recurrent LSTMs and GRUs
+
+(Review Session: Midterm Review)
+
+Lecture 10: Neural Machine Translation and Models with Attention
+
+Lecture 11: Gated Recurrent Units and Further Topics in NMT
+
+Lecture 12: End-to-End Models for Speech Processing
+
+Lecture 13: CNN
+
+Lecture 14: Tree RNN and Constituency Parsing
+
+Lecture 15: Coreference Resolution
+
+Lecture 16: Dynamic Neural Networks for Question Answering
+
+Lecture 17: Issues in NLP and Possible Architectures for NLP
+
+Lecture 18: Tackling the Limits of DL for NLP
